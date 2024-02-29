@@ -1,0 +1,52 @@
+body{
+    
+  
+    margin-top: 126px;
+    border: solid whitesmoke;
+    width: 371px;
+    border-radius: 5%; 
+    margin-left: 556px;
+    background: darkgray;
+    box-shadow: 5px 10px white;
+    text-shadow:  2px 2px white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+
+label{
+    font-weight: bolder;
+}
+.nom{
+    font-size: 23px;
+    margin-left: 9px;
+}
+.prenom{
+    font-size: 23px;
+    margin-left: 9px;
+}
+.sexe{
+    font-size: 23px;
+    margin-left: 9px;
+}
+.ca{
+    font-size: 23px;
+    margin-left: 9px;
+}
+.ZE{
+    font-size: 23px;
+    margin-left: 9px;;
+}
+article{
+    margin-left: 78px;
+}
+.botton{
+    margin-left: 130px;
+    background: darkgrey;
+    padding: 7px;
+    border-radius: 32px;
+   transition: .5s
+}
+.botton:hover{
+    color:white;
+    box-shadow: 5px 1px black;
+}
